@@ -1,0 +1,5 @@
+---
+# Variable setup.
+- name: Include OS-Specific variables
+  debug:
+    msg: "Hi from nginx service"
