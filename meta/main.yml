@@ -54,5 +54,5 @@ galaxy_info:
 dependencies:
   - src: git@github.com:xussof/software_nginx
     scm: git
-    version: master
+    version: main
     name: software_nginx
