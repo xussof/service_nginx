@@ -1,5 +1,5 @@
 ---
-- src: {{ git_url }}{{ git_workspace }}/software_nginx
+- src: git@github.com:xussof/software_nginx
   scm: git
-  version: main
+  version: master
   name: software_nginx
